@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/aytacesmebasi/aytacesmebasi/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
